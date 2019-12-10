@@ -1,0 +1,66 @@
+﻿  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(64): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(75): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(295): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(305): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(322): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(323): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(339): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(347): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(349): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(351): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(353): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(359): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(360): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(361): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(362): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(389): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(395): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(396): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(402): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(431): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(439): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(441): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(443): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(445): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(451): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(452): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(453): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\Pacman.cpp(454): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  Generating Code...
+  Pacman.vcxproj -> C:\Users\w021256j\OneDrive - Staffordshire University\GitHub\Games-and-Graphical-Systems\Pac-Man\Debug\Pacman.exe
