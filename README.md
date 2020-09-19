@@ -12,4 +12,4 @@
 - [ ] Implement life system.
 - [ ] Add powerups for Pac-Man and ghosts.
 
-![](screenshot.png)
+![Pac-Man Game](screenshot.png)
