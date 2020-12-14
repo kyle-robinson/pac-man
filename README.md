@@ -1,6 +1,7 @@
 # Pac-Man Game
 A "Pac-Man" replica game created as part of for FOGGS module in year 1 at university.
 
+*Click image for more information on website*
 <a href="https://kyle-robinson.github.io/html/pacman" target="_blank">
         <img src="screenshot.png" alt="Pac-Man Game" border="10" width="60%" />
 </a>
