@@ -1,15 +1,24 @@
 # Pac-Man Game
- Pacman replica for FOGGS module.
-
-### Features to add to the game.
-- [x] Ghost A.I.
-- [x] Implement walls and collision.
-- [x] Add scoring system.
-- [x] Pause menu music.
-
-### Additional features to add to the game.
-- [ ] Multiplayer functionality.
-- [ ] Implement life system.
-- [ ] Add powerups for Pac-Man and ghosts.
+A "Pac-Man" replica game created as part of for FOGGS module in year 1 at university.
 
 ![Pac-Man Game](screenshot.png)
+
+<a href="https://kyle-robinson.github.io/html/pacman" target="_blank">
+        <img src="screenshot.png" alt="Pac-Man Game" border="10" width="60%" />
+</a>
+
+## List of Features
+
+- [x] Ghost A.I.
+- [x] Wall-Wrapping
+- [x] Collisions
+- [x] Level Map
+- [x] Scoring System
+
+---
+
+### Credits
+
+        Sprites:
+                    https://www.gameart2d.com/freebies.html
+                    https://www.spriters-resource.com/arcade/pacman/
