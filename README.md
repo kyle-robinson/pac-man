@@ -1,5 +1,11 @@
 # Pac-Man Game
 
+[![MSBuild-Debug](https://github.com/kyle-robinson/pac-man/actions/workflows/msbuild-debug.yml/badge.svg)](https://github.com/kyle-robinson/ray-tracer/actions/workflows/msbuild-debug.yml)
+&nbsp;
+[![MSBuild-Release](https://github.com/kyle-robinson/pac-man/actions/workflows/msbuild-release.yml/badge.svg)](https://github.com/kyle-robinson/ray-tracer/actions/workflows/msbuild-release.yml)
+&nbsp;
+[![CodeQL](https://github.com/kyle-robinson/pac-man/actions/workflows/codeql.yml/badge.svg)](https://github.com/kyle-robinson/ray-tracer/actions/workflows/codeql.yml)
+
 A "Pac-Man" replica game created as part of for FOGGS module in year 1 at university.
 
 *- Click image for more information on website -*
