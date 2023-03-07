@@ -5,6 +5,8 @@
 [![MSBuild-Release](https://github.com/kyle-robinson/pac-man/actions/workflows/msbuild-release.yml/badge.svg)](https://github.com/kyle-robinson/pac-man/actions/workflows/msbuild-release.yml)
 &nbsp;
 [![CodeQL](https://github.com/kyle-robinson/pac-man/actions/workflows/codeql.yml/badge.svg)](https://github.com/kyle-robinson/pac-man/actions/workflows/codeql.yml)
+&nbsp;
+<img src="https://img.shields.io/static/v1?label=University&message=Year 1&color=f7a52a&style=flat&logo=nintendogamecube&logoColor=CCCCCC" />
 
 A "Pac-Man" replica game created as part of for FOGGS module in year 1 at university.
 
